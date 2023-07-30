@@ -6,7 +6,21 @@
 
 ![codewars](https://www.codewars.com/users/TieR8/badges/large)
 
----
+
+### ⚙️ GitHub статистика:
+
+<table>
+  <tr>
+    <td>
+      <img align="left" src="http://github-readme-streak-stats.herokuapp.com?user=TieR89&theme=dark&background=000000" alt="webDev's Github stats" />
+    </td>
+    <td>
+      <img height="195px" align="right" alt="webDev's Github Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=TieR89&layout=compact&theme=vision-friendly-dark" />
+    </td>
+  </tr>
+</table>
+
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=tier89)
 
 <!--
 **TieR89/tier89** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
