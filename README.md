@@ -20,7 +20,7 @@
   </tr>
 </table>
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=tier89)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=TieR89)
 
 <!--
 **TieR89/tier89** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
