@@ -22,7 +22,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VScode" alt="vscode" width="40" height="40"/>&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Notion-logo.svg" title="Notion" alt="Notion" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/chrome/chrome-original.svg" title="Chrome" alt="chrome" width="40" height="40"/>&nbsp;
-  
+  <img src="https://avatars.githubusercontent.com/u/65011256?s=200&v=4" title="Obsidian" alt="obsidian" width="40" height="40"/>&nbsp;
 </div>
 
 ---
